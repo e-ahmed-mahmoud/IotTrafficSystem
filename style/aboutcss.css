@@ -1,0 +1,30 @@
+.jumbotron
+{
+	border: 2px solid #807e7e;
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius: 3%;
+	overflow: hidden;
+}
+.jop
+{
+    padding: 1px;
+    margin-left: 100px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: oblique;
+    color: black ;
+}
+p
+{
+margin-bottom: unset;
+}
+.jumbotron h1
+{
+margin-bottom: 0px;
+margin-top: 0px;
+margin-top: 0px;
+color:black;
+}

@@ -1,0 +1,112 @@
+
+
+.jumbotron container 
+{
+margin: 0;
+padding: 0;
+margin-bottom: 0;
+}
+.jumbotron h1 
+{
+	background: #ababab;
+	font-size: 40px;
+	border: 3px solid #c6c2c2;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: center;
+	letter-spacing: 3px;
+	word-spacing: 10px;
+	text-transform: capitalize;
+	font-weight: 350;
+	margin-bottom: 60px;
+}
+
+
+.jumbotron h2 
+{
+	font-size: 28px;
+	margin-top: 0px;
+}
+.jumbotron ol li 
+{
+	font-size: 18px;
+	margin-top: 0;
+}
+
+.jumbotron ul li 
+{
+	font-size: 18px;
+	margin-top: 0px;
+}
+.jumbotron p_o_imag img 
+{
+	
+	width: 320px;
+	height: 200px;
+	display: inline-block;
+	margin-left: 250px;
+	border-radius: 21%;
+	margin-bottom: 0px;
+}
+.jumbotron0 p_c_imag img 
+{
+	width: 320px;
+	height: 200px;
+	display: inline-block;
+	margin-left: 250px;
+	border-radius: 21%;
+}
+div.p_d_imag img {
+	width: 320px;
+	height: 200px;
+	display: inline-block;
+	margin-left: 250px;
+	border-radius: 21%;
+}
+.jumbotron
+{
+	padding: 0px 0px 0px 0px;
+	margin: 0px ;
+	color: #363636;
+	border: 0px solid #807e7e;
+	padding: 15px;
+	margin-bottom: 0;
+	border-radius: 3%;
+	overflow: hidden;
+}
+.row-header
+{
+	border: 2px solid #807e7e;
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius: 3%;
+}
+.row-content
+{
+
+	border-bottom: 1px ridge;
+	min-height: 10px;
+	border: 2px solid #807e7e;
+	padding: 15px;
+	margin-bottom: 20px;
+	border-radius: 3%;
+
+	
+}
+.footer
+{
+	background-color: rgb(221, 221, 221)  ;
+	margin: 0px;
+	color: black;
+}
+address
+{
+	font-size: 80%;
+	margin: 0px;
+	color:red;
+}
+.navbar-inverse
+{
+	background-color: black;
+}
